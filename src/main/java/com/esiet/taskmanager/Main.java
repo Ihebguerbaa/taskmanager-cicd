@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         TaskManager manager = new TaskManager();
 
-        System.out.println("=== TaskManager - ESIET Demo ===");
+        System.out.println("=== TaskManager - ESIET Demo1 ===");
 
         manager.addTask("Rédiger le cahier des charges", "Document initial du projet", "HIGH");
         manager.addTask("Configurer l'environnement Git", "Initialiser le dépôt GitHub", "HIGH");
